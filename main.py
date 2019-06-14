@@ -1,5 +1,5 @@
 class Trading:
-   'Calculates gains and losses or trading orders based on FIFO principle'
+   'Calculates gains/losses of trading orders based on FIFO principle'
 
    def __init__(self):
       self.coinWallet = []
